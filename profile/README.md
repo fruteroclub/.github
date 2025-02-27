@@ -1,2 +1,2 @@
-# .github
-Documentos y links importantes de la comunidad de Frutero Club 🍌🥭🍍.
+# Comunidad de Frutero Club
+¡Bienvenidos a la comunidad de builders más top de toda Latinoamérica!
